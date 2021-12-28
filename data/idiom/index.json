@@ -1,0 +1,682 @@
+[
+  {
+    "title": "趨炎附勢",
+    "answers": [
+      "C",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "束之高閣",
+    "answers": [
+      "D",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "title": "不求甚解",
+    "answers": [
+      "C",
+      "B",
+      "A"
+    ]
+  },
+  {
+    "title": "背道而馳",
+    "answers": [
+      "D",
+      "D",
+      "B"
+    ]
+  },
+  {
+    "title": "草菅人命",
+    "answers": [
+      "A",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "title": "夜郎自大",
+    "answers": [
+      "C",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "title": "不寒而慄",
+    "answers": [
+      "A",
+      "C",
+      "A"
+    ]
+  },
+  {
+    "title": "熟能生巧",
+    "answers": [
+      "C",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "置之度外",
+    "answers": [
+      "A",
+      "D",
+      "C"
+    ]
+  },
+  {
+    "title": "約法三章",
+    "answers": [
+      "C",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "志在四方",
+    "answers": [
+      "C",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "一意孤行",
+    "answers": [
+      "C",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "title": "萬事俱備，只欠東風",
+    "answers": [
+      "C",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "title": "一毛不拔",
+    "answers": [
+      "C",
+      "C",
+      "A"
+    ]
+  },
+  {
+    "title": "一竅不通",
+    "answers": [
+      "D",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "舉一反三",
+    "answers": [
+      "B",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "三生有幸",
+    "answers": [
+      "D",
+      "A",
+      "C"
+    ]
+  },
+  {
+    "title": "為虎作倀",
+    "answers": [
+      "B",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "鶴立雞群",
+    "answers": [
+      "C",
+      "D",
+      "B"
+    ]
+  },
+  {
+    "title": "老馬識途",
+    "answers": [
+      "D",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "不入虎穴，焉得虎子",
+    "answers": [
+      "B",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "亡羊補牢",
+    "answers": [
+      "C",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "鷸蚌相爭",
+    "answers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "title": "狐假虎威",
+    "answers": [
+      "C",
+      "D",
+      "C"
+    ]
+  },
+  {
+    "title": "塞翁失馬",
+    "answers": [
+      "A",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "title": "兔死狗烹",
+    "answers": [
+      "C",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "濫竽充數",
+    "answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "title": "坐井觀天",
+    "answers": [
+      "B",
+      "C",
+      "A"
+    ]
+  },
+  {
+    "title": "望洋興嘆",
+    "answers": [
+      "D",
+      "B",
+      "A"
+    ]
+  },
+  {
+    "title": "天衣無縫",
+    "answers": [
+      "B",
+      "D",
+      "B"
+    ]
+  },
+  {
+    "title": "黃粱美夢",
+    "answers": [
+      "C",
+      "D",
+      "C"
+    ]
+  },
+  {
+    "title": "南柯一夢",
+    "answers": [
+      "D",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "title": "杞人憂天",
+    "answers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "title": "滄海桑田",
+    "answers": [
+      "A",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "title": "懸壺問世",
+    "answers": [
+      "D",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "title": "巴蛇吞象",
+    "answers": [
+      "B",
+      "D",
+      "C"
+    ]
+  },
+  {
+    "title": "得過且過",
+    "answers": [
+      "C",
+      "D",
+      "B"
+    ]
+  },
+  {
+    "title": "越俎代疱",
+    "answers": [
+      "B",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "天下無雙",
+    "answers": [
+      "D",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "title": "管中",
+    "answers": [
+      "A",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "title": "八面",
+    "answers": [
+      "C",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "title": "過門",
+    "answers": [
+      "C",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "止談",
+    "answers": [
+      "D",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "title": "抱薪救火",
+    "answers": [
+      "C",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "title": "過河拆橋",
+    "answers": [
+      "B",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "title": "舉棋不定",
+    "answers": [
+      "C",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "title": "緣木求魚",
+    "answers": [
+      "B",
+      "C",
+      "B"
+    ]
+  },
+  {
+    "title": "望梅止渴",
+    "answers": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "title": "請君入甕",
+    "answers": [
+      "D",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "鐵硯磨穿",
+    "answers": [
+      "C",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "車載斗量",
+    "answers": [
+      "B",
+      "A",
+      "C"
+    ]
+  },
+  {
+    "title": "天經地義",
+    "answers": [
+      "D",
+      "D",
+      "C"
+    ]
+  },
+  {
+    "title": "一舉兩得",
+    "answers": [
+      "B",
+      "A",
+      "C"
+    ]
+  },
+  {
+    "title": "百尺竿頭，更進一步",
+    "answers": [
+      "C",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "title": "三人成虎",
+    "answers": [
+      "C",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "一不做，二不休",
+    "answers": [
+      "A",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "一無長物",
+    "answers": [
+      "A",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "一字千金",
+    "answers": [
+      "C",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "獨當一面",
+    "answers": [
+      "A",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "title": "一丘之貉",
+    "answers": [
+      "D",
+      "D",
+      "C"
+    ]
+  },
+  {
+    "title": "吳下阿蒙",
+    "answers": [
+      "C",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "title": "寧為玉碎，不作瓦全",
+    "answers": [
+      "D",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "邯鄲學步",
+    "answers": [
+      "C",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "術不學無",
+    "answers": [
+      "C",
+      "D",
+      "B"
+    ]
+  },
+  {
+    "title": "杯弓蛇影",
+    "answers": [
+      "B",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "title": "高山流水",
+    "answers": [
+      "A",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "title": "負荊請罪",
+    "answers": [
+      "C",
+      "A",
+      "D"
+    ]
+  },
+  {
+    "title": "三顧茅廬",
+    "answers": [
+      "C",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "竭盡全力",
+    "answers": [
+      "D",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "title": "千變萬化",
+    "answers": [
+      "C",
+      "D",
+      "B"
+    ]
+  },
+  {
+    "title": "疾風知勁草",
+    "answers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "title": "如火如荼",
+    "answers": [
+      "A",
+      "C",
+      "A"
+    ]
+  },
+  {
+    "title": "世外桃園",
+    "answers": [
+      "B",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "title": "朽木不雕",
+    "answers": [
+      "D",
+      "D",
+      "B"
+    ]
+  },
+  {
+    "title": "水深火熱",
+    "answers": [
+      "C",
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "一木難支",
+    "answers": [
+      "C",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "title": "玩火自焚",
+    "answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "title": "雞犬不寧",
+    "answers": [
+      "C",
+      "D",
+      "C"
+    ]
+  },
+  {
+    "title": "金蟬脫殼",
+    "answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "title": "厲兵秣馬",
+    "answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "title": "騎虎難下",
+    "answers": [
+      "D",
+      "A",
+      "C"
+    ]
+  },
+  {
+    "title": "走馬觀花",
+    "answers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "title": "按圖索驥",
+    "answers": [
+      "B",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "title": "老牛舐犢",
+    "answers": [
+      "D",
+      "B",
+      "A"
+    ]
+  },
+  {
+    "title": "牛鼎烹雞",
+    "answers": [
+      "B",
+      "D",
+      "B"
+    ]
+  }
+]
