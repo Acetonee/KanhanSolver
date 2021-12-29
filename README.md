@@ -31,12 +31,10 @@ I am using Firefox here. This should also work on other browsers, perhaps with s
    script.src = "https://acetonee.github.io/KanhanSolver/index.js";
    document.getElementsByTagName('head')[0].appendChild(script);
    ```
+   If you are using Firefox, you may need to type in `allow paste` to the web console first to allow pasting.
 
 
-4. Run the code
-    - Firefox: Press `Ctrl + Enter`
-    - Chrome: Press `Enter`
-    - All browsers: Press the `Run` button
+4. Run the code by pressing the `Run` button, `Enter` or `Ctrl + Enter` keys.
 
 
 5. The answers should be filled in automatically and the page refreshed to the next question.
