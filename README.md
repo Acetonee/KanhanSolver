@@ -2,11 +2,12 @@
 
 By [Acetonee](https://github.com/Acetonee)
 
-
 ## Getting Started
 
-I am using Firefox here. This should also work on other browsers, perhaps with slightly different shortcut keys.
+This currently only works for Chinese idioms. [Open a feature request](https://github.com/Acetonee/KanhanSolver/issues)
+on the issues page if you want support for other sections as well.
 
+I am using Firefox here. This should also work on other browsers, perhaps with slightly different shortcut keys.
 
 1. Log in to your _Kanhan_ account and navigate to the exercise page. You should see multiple choice questions shown on
    the page.
@@ -42,9 +43,7 @@ I am using Firefox here. This should also work on other browsers, perhaps with s
    cleared after each run, just paste the code again or get Firefox (it's better for privacy!).
 
 
-7. Manually submit the confirmation of the exercise by pressing the `確認` button. (Make a feature request if you want
-   this automated.)
-
+7. Voila. Your answers should be submitted automatically.
 
 ## Features
 
