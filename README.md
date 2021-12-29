@@ -33,7 +33,10 @@ I am using Firefox here. This should also work on other browsers, perhaps with s
    ```
 
 
-4. Run the code by pressing the `Run` button or `Ctrl + Enter` keys.
+4. Run the code
+    - Firefox: Press `Ctrl + Enter`
+    - Chrome: Press `Enter`
+    - All browsers: Press the `Run` button
 
 
 5. The answers should be filled in automatically and the page refreshed to the next question.
